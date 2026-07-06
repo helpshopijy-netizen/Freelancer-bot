@@ -1,4 +1,4 @@
-```python
+
 import logging
 import sqlite3
 import asyncio
